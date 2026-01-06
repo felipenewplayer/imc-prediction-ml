@@ -97,10 +97,10 @@ A aplicação está hospedada no **Streamlit Cloud**, garantindo:
 
 ```
 imc-prediction-ml/
-│── app.py              # Aplicação Streamlit
-│── model.pkl           # Modelo treinado
-│── requirements.txt    # Dependências
-│── README.md           # Documentação
+│── app.py                    # Aplicação Streamlit
+│── model/imc_model.pkl       # Modelo treinado
+│── requirements.txt          # Dependências
+│── README.md                 # Documentação
 ```
 
 ---
