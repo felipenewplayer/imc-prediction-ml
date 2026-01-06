@@ -109,7 +109,7 @@ imc-prediction-ml/
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/seu-usuario/imc-prediction-ml.git
+git clone https://github.com/felipenewplayer/imc-prediction-ml
 
 # Acessar o projeto
 cd imc-prediction-ml
